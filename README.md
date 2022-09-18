@@ -1,0 +1,2 @@
+# speemox
+Bot of speemoxmc
